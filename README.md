@@ -17,13 +17,13 @@
 ## 🚀 About Me
 
 ```
-        Name = "Mirdula R"
-        Location = "India"
-        Current focus = ["Machine Learning", "Cybersecurity", "Full Stack Development"]
-        Learning = ["Deep Learning", "Ethical Hacking", "Cloud Computing"]
-        Hobbies = ["Technical Writing", "Open Source", "Problem Solving"]
+        Name = Mirdula R
+        Location = India
+        Current focus = Machine Learning, Cybersecurity, Full Stack Development
+        Learning = Deep Learning, Ethical Hacking, Cloud Computing
+        Hobbies = Technical Writing, Open Source, Problem Solving
         
-        "Thanks for dropping by! Let's connect and build something amazing together!"
+        Thanks for dropping by! Let's connect and build something amazing together!
         
 
 ```
